@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tonghop">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/tonghop.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
